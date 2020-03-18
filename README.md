@@ -1,4 +1,4 @@
-# myfirstproject/mentor is  TEJASWAROOP 
+# myfirstproject/inspiration is  TEJASWAROOP 
 i am a new developer i followed Mr.Teja's idea
 thefoodscript
 A script for Zomato. Automates the process of finding the best restaurant nearby, and also finds the restaurants that offer the best deals for a particular dish.
